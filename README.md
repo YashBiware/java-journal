@@ -2,18 +2,9 @@
 
 # ☕ Java Problems & DSA Implementations
 
-A personal repository of Java programming problems and Data Structures & Algorithms implementations — built for practice, revision, and reference.
+A daily practice repository where I solve Java problems and implement DSA concepts — one commit at a time. This is an **ongoing journey**, not a finished collection. New code gets added every day as I work towards completing DSA and strengthening my Java fundamentals.
 
----
-
-## 🧠 Topics 
-
-| Category | Topics |
-|---|---|
-| **Data Structures** | Arrays, Linked Lists, Stacks, Queues, Trees, Heaps, Graphs, Tries |
-| **Algorithms** | Sorting, Searching, BFS/DFS, Dijkstra, Floyd-Warshall, KMP |
-| **Techniques** | Two Pointers, Sliding Window, Divide & Conquer, Backtracking, DP |
-| **Java Concepts** | OOP, Collections Framework, Generics, Recursion |
+> 🚧 **Work in Progress** — actively updated daily.
 
 ---
 
