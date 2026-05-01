@@ -6,7 +6,7 @@ A personal repository of Java programming problems and Data Structures & Algorit
 
 ---
 
-## 🧠 Topics Covered
+## 🧠 Topics 
 
 | Category | Topics |
 |---|---|
