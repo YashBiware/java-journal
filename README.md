@@ -53,9 +53,9 @@ LongestCommonSubsequence.java
 
 ## 👤 Author
 
-**Yash Barange**
+**Yash Biware**
 B.Tech Computer Science — Medicaps University, Indore
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/YashBiware) • [LinkedIn](https://www.linkedin.com/in/yash-biware-07a6a1269/)
 
 ---
 
