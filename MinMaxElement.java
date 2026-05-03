@@ -6,6 +6,8 @@ public class MinMaxElement {
     static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int i;
+        
+        //please go to UserArrayInput.java to see the array input code..
         int[] array = UserArrayInput.getArray();
 
         //min - max elements
