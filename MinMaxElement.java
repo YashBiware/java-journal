@@ -17,10 +17,10 @@ public class MinMaxElement {
         for(i=1; i< array.length; i++){
 
             if(array[i]>=max){
-                max= array[i] ;
+                max= array[i] ; // updating the max element at every iteration.
             }
             if (array[i]<=min){
-                min = array[i] ;
+                min = array[i] ; // updating the min element at every iteration.
             }
         }
 
