@@ -1,3 +1,4 @@
+//to delete the given number from an array and returning the new array
 import java.lang.*;
 import java.util.Scanner;
 
